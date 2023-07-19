@@ -1,0 +1,53 @@
+{
+  "pages": [
+    {
+      "name": "Home",
+      "description": "description",
+      "title": "Title",
+      "id": 1,
+      "path": "/"
+    },
+    {
+      "name": "About",
+      "path": "/about",
+      "title": "About page",
+      "description": "About desc",
+      "id": 2
+    },
+    {
+      "name": "Another page",
+      "path": "/another-page",
+      "title": "Some another page",
+      "description": "asdadw",
+      "id": 3
+    }
+  ],
+  "home": {
+    "meta": {
+      "title": "Stage Electrics",
+      "meta": [
+        {
+          "name": "description",
+          "content": "My amazing site."
+        }
+      ]
+    },
+    "content": [
+      {
+        "component": "EditableTextBlock",
+        "content": "Some text"
+      }
+    ]
+  },
+  "blog": {
+    "meta": {
+      "title": "Blog",
+      "meta": [
+        {
+          "name": "description",
+          "content": "My amazing site."
+        }
+      ]
+    }
+  }
+}
