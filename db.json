@@ -21,33 +21,5 @@
       "description": "asdadw",
       "id": 3
     }
-  ],
-  "home": {
-    "meta": {
-      "title": "Stage Electrics",
-      "meta": [
-        {
-          "name": "description",
-          "content": "My amazing site."
-        }
-      ]
-    },
-    "content": [
-      {
-        "component": "EditableTextBlock",
-        "content": "Some text"
-      }
-    ]
-  },
-  "blog": {
-    "meta": {
-      "title": "Blog",
-      "meta": [
-        {
-          "name": "description",
-          "content": "My amazing site."
-        }
-      ]
-    }
-  }
+  ]
 }
